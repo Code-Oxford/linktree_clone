@@ -64,7 +64,8 @@
                       <!-- Logo (Replace my Logo)  -->
                   <div class="flex justify-center space-x-4 mt-4">
                         <a href="#">
-                        <img class="h-20 hover:scale-105 duration-500 ease-in-out" src="/id-dev.png" alt="id-dev logo">
+                        <p>Insert Logo Here</p>
+                        <img class="h-20 hover:scale-105 duration-500 ease-in-out" src="/" alt="">
                         </a>
                   </div>
               </div>
